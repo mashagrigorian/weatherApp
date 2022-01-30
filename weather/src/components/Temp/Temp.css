@@ -1,0 +1,14 @@
+.temp {
+  margin: 18px 0;
+  font-size: 14px;
+  color: #212529;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.temp span {
+  margin: 0 3px;
+}
+
+.temp .min {
+  font-weight: 700;
+}
